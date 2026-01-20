@@ -6417,6 +6417,15 @@ p.sticky-label {
   color: var(--theme);
   margin-left: 5px;
 }
+.list-area p{
+  color: rgb(255, 98, 0);
+  padding-left: 0px;
+  padding-top: 5px;
+}
+.list-area p a{
+  color: white;
+  padding-left: 5px;
+}
 .footer-widgets-wrapper .single-footer-widget .footer-gallery .gallery-wrap .gallery-item {
   display: flex;
   align-items: center;
