@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   border-radius: 10px;
   letter-spacing: 0;
-  padding: 12px 40px;
+  padding: 8px 20px;
   transition: 500ms;
   text-transform: capitalize;
   position: relative;
@@ -2392,7 +2392,7 @@ z-index: -1;
   width: 100%;
   height: 100%;
   content: "";
-  background-color: #256ab1;
+  background-color: #03284d;
   opacity: 0.9;
   z-index: -1;
 }
