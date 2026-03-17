@@ -6180,9 +6180,10 @@ p.sticky-label {
 
 .single-contact-card {
   background-color: #256ab1;
-  padding: 40px;
+  padding: 20px;
   transition: all 0.3s ease-in-out;
   border-radius: 10px;
+  height:200px;
 }
 @media (max-width: 585px) {
   .single-contact-card {
